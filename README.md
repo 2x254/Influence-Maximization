@@ -12,6 +12,6 @@ This project presents the influence maximization approach.
 
 To run this code:
 
-1) install libraries:  networkx, numpy... (for example: pip install networkx, pip install numpy...) 
-2) run the files.
+1) Install libraries:  networkx, numpy... (for example: pip install networkx, pip install numpy...). 
+2) Run the files.
 
