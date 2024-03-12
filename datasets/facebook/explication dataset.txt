@@ -1,0 +1,18 @@
+https://snap.stanford.edu/data/gemsec-Facebook.html
+
+Artist	50,515 (nodes) 	819,306 (edges) 
+
+We collected data about Facebook pages (November 2017). These datasets represent blue verified Facebook page networks of different categories.
+ Nodes represent the pages and edges are mutual likes among them. We reindexed the nodes in order to achieve a certain level of anonimity. 
+The csv files contain the edges -- nodes are indexed from 0. We included 8 different distinct types of pages.
+ These are listed below. For each dataset we listed the number of nodes an edges.
+
+source :
+  @inproceedings{rozemberczki2019gemsec,    
+    title={GEMSEC: Graph Embedding with Self Clustering},    
+    author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},    
+    booktitle={Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2019},    
+    pages={65-72},    
+    year={2019},    
+    organization={ACM}    
+    }
