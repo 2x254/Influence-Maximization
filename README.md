@@ -10,8 +10,8 @@ This project presents the influence maximization approach.
 
 --> The folder "datasets" contains the datasets used for experiments.
 
-To run this code:
+To run the code:
 
-1) Install libraries:  networkx, numpy... (for example: pip install networkx, pip install numpy...). 
-2) Run the files.
+1) Install the required libraries: networkx, numpy, etc. (For example: pip install networkx, pip install numpy, etc.).
+2) Execute the files.
 
