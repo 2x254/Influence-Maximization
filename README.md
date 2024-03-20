@@ -15,3 +15,4 @@ To run the code:
 1) Install the required libraries: networkx, numpy, etc. (For example: pip install networkx, pip install numpy, etc.).
 2) Execute the files.
 
+CDP folder is for community detection.
